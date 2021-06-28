@@ -1,0 +1,35 @@
+[
+    {
+      "id": "0",
+      "name": "Agustin Villarruel",
+      "profession": "Designer",
+      "image": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/partners%2Fagustin.jpg?alt=media&token=59390c98-474b-4b83-a9bc-f39aa99cb04f",
+      "socialmedia":
+        {
+          "url": "",
+          "nick": "@agusvill"
+        }
+    },
+    {
+      "id": "1",
+      "name": "Mariquena Betcher",
+      "profession": "Architect student",
+      "image": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/partners%2Fmariquena.jpg?alt=media&token=b0caefc0-d41e-4355-9c81-b9510b66a7fb",
+      "socialmedia":
+        {
+          "url": "",
+          "nick": "@mariquenabetcher"
+        }
+    },
+    {
+      "id": "2",
+      "name": "Lucas Islas",
+      "profession": "Architect student",
+      "image": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/partners%2Fislas.jpg?alt=media&token=85631fe9-c8a2-49fa-92b5-cb114d184fcd",
+      "socialmedia":
+        {
+          "url": "",
+          "nick": "@lucasislas"
+        }
+    }
+]

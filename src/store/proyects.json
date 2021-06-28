@@ -1,0 +1,408 @@
+[
+  {
+    "id": "0",
+    "shortname": "CCCUNLP",
+    "name": "Centro Cultural de Convenciones Universidad Nacional de La Plata",
+    "author": "Estudio Clio",
+    "year": "2016",
+    "description": "Es un proyecto de intervención urbana, coronado con un edificio de gran escala que alberga un Centro de congresos y convenciones para la UNLP. Este programa presenta la dificultad de vincular actividades dinámicas que requieren una especialidad voluminosa y de gran escala como son el auditorio, sala de exposiciones y SUM, con programas sistemáticos como lo son las aulas, administración y alojamiento. Esta diversidad se ve reforzada a la hora de resolver la jerarquía de los diferentes accesos, necesitando tres niveles distintos desde lo publico, semi-público y privado.",
+    "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5494.9413341543195!2d-57.94768001211267!3d-34.90623227183012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2sar!4v1622265879242!5m2!1ses-419!2sar",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fetiq_cccunlp.png?alt=media&token=34be14f8-3713-41ce-af5c-9dcf28d286ee",
+    "card": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_card.jpg?alt=media&token=0159e823-2dcb-4f64-8c1c-422fb932c016",
+    "images": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_001.jpg?alt=media&token=a46a4d01-70c6-45c9-9de1-4461ef5f8196",
+        "id": "0"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_002.jpg?alt=media&token=e9135a7b-33f3-4904-9920-04bccd090f7e",
+        "id": "1"
+      },
+              {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_003.jpg?alt=media&token=bb247e62-2235-43f9-9aec-5bfa65c0fcdd",
+        "id": "2"
+      },
+              {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_004.jpg?alt=media&token=e6b0762b-bbe7-4fca-b5bc-ed2c503fbf50",
+        "id": "3"
+      },
+              {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_005.jpg?alt=media&token=c33bd785-02a5-4043-8b2f-daead93af422",
+        "id": "4"
+      },
+              {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_006.jpg?alt=media&token=3fb8bdb1-7199-4f33-9d7d-b07a15971d6a",
+        "id": "5"
+      },
+              {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_007.jpg?alt=media&token=8a0cb358-833f-40ce-ad39-66d55d8f1bf0",
+        "id": "6"
+      },
+              {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_008.jpg?alt=media&token=e028580e-827f-4b73-84c9-6b9c382c2f11",
+        "id": "7"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_009.jpg?alt=media&token=252c54f7-7bec-43b5-9c9f-a3164f68f66d",
+        "id": "8"
+        },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_010.jpg?alt=media&token=e6d9d17d-980c-4633-94d2-7fc2b7935605",
+        "id": "9"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_011.jpg?alt=media&token=d0e7baf4-78a6-4518-ab62-2696cf3465bb",
+        "id": "10"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_012.jpg?alt=media&token=15987056-3fbb-410b-a4ff-16752c00e871",
+        "id": "11"
+        },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_013.jpg?alt=media&token=f1e3c6d8-250b-443a-83ab-51f92b104948",
+        "id": "12"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_014.jpg?alt=media&token=1fd89fce-85e7-4a8e-baa9-b2b29b08d90b",
+        "id": "13"
+        },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_015.jpg?alt=media&token=6aefe7d1-dfdc-4c4e-8f02-bec7bf666213",
+        "id": "14"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_016.jpg?alt=media&token=c9732df6-5769-4d5d-8842-468e9984eaa5",
+        "id": "15"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_017.jpg?alt=media&token=8e0e7b7c-d96b-4e32-9430-6e88475d7bc1",
+        "id": "16"
+        },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_018.jpg?alt=media&token=98e2c1f4-aeb1-4fd5-903e-4add2c2cf7a1",
+        "id": "17"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_019.jpg?alt=media&token=e382183f-c88d-41e2-ab8a-6495e9aedf52",
+        "id": "18"
+        },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_020.jpg?alt=media&token=01c13214-b84d-4861-bf95-45eaf4ec918c",
+        "id": "19"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_021.jpg?alt=media&token=c34e683b-14fd-4970-9975-fea7e316511a",
+        "id": "20"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_022.jpg?alt=media&token=bdedc417-e09b-49ba-aa0c-fbad446641a7",
+        "id": "21"
+        },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_023.jpg?alt=media&token=3a6ef467-b9a2-4699-bf4b-78eb2168c269",
+        "id": "22"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_024.jpg?alt=media&token=11bd9095-91d6-45c4-a759-eb6f87a4f8ab",
+        "id": "23"
+        },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_025.jpg?alt=media&token=8238f01b-050d-40a1-9acd-8c145b89e807",
+        "id": "24"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_026.jpg?alt=media&token=f7ad8f1f-27b8-4947-b327-0bfe253f9d83",
+        "id": "25"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_027.jpg?alt=media&token=172a3aee-1eb0-4efd-b548-ede2d4377a9b",
+        "id": "26"
+        },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_028.jpg?alt=media&token=c66e3e03-29a7-49c6-bc77-11b5a490c155",
+        "id": "27"
+      }
+    ],
+    "planes": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_planes_001.jpg?alt=media&token=651ffb00-d252-4adb-91ec-69a0648c7664",
+        "id": "0"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_planes_002.jpg?alt=media&token=38ee3f2f-ddc4-4f83-a162-5487e3563e56",
+        "id": "1"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_planes_003.jpg?alt=media&token=586966c5-fef8-4e29-892f-b81c769e9d13",
+        "id": "2"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_planes_004.jpg?alt=media&token=5dc9c82c-d83d-4bdb-805c-b9d03e5127d4",
+        "id": "3"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_planes_005.jpg?alt=media&token=6e9812db-9368-4cae-a8ef-dfc979c81993",
+        "id": "4"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_planes_006.jpg?alt=media&token=55130b07-3fc0-4557-89c3-d6a187a513fb",
+        "id": "5"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_planes_007.jpg?alt=media&token=7dedfeac-7c43-43de-9c39-282e6bc3a59b",
+        "id": "6"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_planes_008.jpg?alt=media&token=69e80831-8081-46c0-953e-d45a74387008",
+        "id": "7"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_planes_009.jpg?alt=media&token=85464bea-0bb5-4043-b1fc-9e0b99a53faa",
+        "id": "8"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_planes_010.jpg?alt=media&token=a584cad2-d8cc-4c58-b94c-026f7ca630d5",
+        "id": "9"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcccunlp%2Fcccunlp_planes_011.jpg?alt=media&token=dca74747-5735-4401-9993-669d7cf420c8",
+        "id": "10"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "shortname": "HOME",
+    "name": "House Of Multiple Enviroment",
+    "author": "Estudio Clio ft. Agusvill",
+    "year": "2020",
+    "description": "H.o.m.e. es un ejercicio proyectual de vivienda mínima desarrollado en conjunto con @agusvill. Tomamos como regla distribuir siempre el espacio en tres jerarquías rectoras, es decir, en un cuadrado compuesto por nueve módulos iguales, 4 tendrán cierta jerarquía, tres otra y dos otra diferente. Esta regla será utilizada al momento de realizar la distribución principal como así también las que surjan en el armado. Para conocer mas sobre este proceso podes visitar nuestro atelier.",
+    "map": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7185.872203991993!2d-72.34328550003053!3d-40.68211186955593!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2sar!4v1622266002528!5m2!1ses-419!2sar",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fetiq_home.png?alt=media&token=897d39fd-1fd1-4d24-a54b-7dcbe19c1c4b",
+    "card": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_card.jpg?alt=media&token=a70e6394-53b2-4acb-a8ce-f7e9db6d948f",
+    "images": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_001.jpg?alt=media&token=c0ffc157-829b-42f7-8b51-a2d9a5db32b4",
+        "id": "0"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_002.jpg?alt=media&token=2071ccc1-8822-44ce-81b6-f70eaf1e1c93",
+        "id": "1"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_003.jpg?alt=media&token=1b09aefe-7366-464e-b051-c4da81060242",
+        "id": "2"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_004.jpg?alt=media&token=3d112d6d-d10d-44dc-8171-ed7befac7dba",
+        "id": "3"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_005.jpg?alt=media&token=232c5c2b-1df5-423a-bbae-f574d9001407",
+        "id": "4"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_006.jpg?alt=media&token=87b24819-5cde-434d-affb-0df9eafd10d9",
+        "id": "5"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_007.jpg?alt=media&token=6f0ad410-a7d7-4a7f-84c1-ea6d48db3ffc",
+        "id": "6"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_008.jpg?alt=media&token=8268cff9-7d83-43d8-a2de-6b9f4b8222d9",
+        "id": "7"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_009.jpg?alt=media&token=242ea838-786e-483f-b581-39a75a7fdb09",
+        "id": "8"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_010.jpg?alt=media&token=e4aefa71-ea05-4f74-a249-fc5c927f03d1",
+        "id": "9"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_011.jpg?alt=media&token=959fb05f-bb88-4d26-864c-4d9cf0d3b967",
+        "id": "10"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_012.jpg?alt=media&token=c57022a1-a7fa-4623-83e2-fe2a9f0138cc",
+        "id": "11"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_013.jpg?alt=media&token=685673a9-a39e-495b-8288-b92747d15b58",
+        "id": "12"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_014.jpg?alt=media&token=3779005a-72fc-4291-a37f-5107c12569a8",
+        "id": "13"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_015.jpg?alt=media&token=4df63275-320d-45fb-9971-199e648ca68b",
+        "id": "14"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_016.jpg?alt=media&token=edc5c9ce-c785-4a89-ae9e-ba9d4e6fc8c5",
+        "id": "15"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_017.jpg?alt=media&token=5f04a7a7-4430-4fbe-95eb-49ff46074105",
+        "id": "16"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_018.jpg?alt=media&token=3869bc7e-4ce2-49b2-9fed-706d198426ea",
+        "id": "17"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_019.jpg?alt=media&token=d4878c7d-3f57-4dca-a1fb-8986954c53ac",
+        "id": "18"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_020.jpg?alt=media&token=da0be99f-0aa1-4aa9-822e-ce316b02e40d",
+        "id": "19"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_021.jpg?alt=media&token=208cb1ad-8235-45b8-9833-f7c7bdb58a1b",
+        "id": "20"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_022.jpg?alt=media&token=e635f3ed-07be-47c8-a51d-a7aa40b6e1fa",
+        "id": "21"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fhome%2Fhome_023.jpg?alt=media&token=0e01c23e-cde4-4443-bc88-9ef507590e16",
+        "id": "22"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "shortname": "CAUCE",
+    "name": "CAUCE Ex Molino Río de la Plata",
+    "author": "Arq. MIRET HERRERA Carla",
+    "year": "2020",
+    "description": "Es el proyecto de final de carrera de la flamante arquitecta Carla Miret, quien nos encargó el trabajo de ambientación y tratado del entorno como la materialización y renderizado de las imágenes para la visualización fotorrealista del proyecto.",
+    "map": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d4043.377513752754!2d-64.1744680833356!3d-31.415517820702075!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2sar!4v1622266155681!5m2!1ses-419!2sar",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fetiq_cauce.png?alt=media&token=d4290237-3fe7-4081-b637-c41bef2f31ba",
+    "card": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_card.jpg?alt=media&token=20cdb743-281e-48f5-9a14-5060784d8555",
+    "images": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_001.jpg?alt=media&token=a5745c53-7def-4699-b1cc-881881cb499d",
+        "id": "0"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_002.jpg?alt=media&token=ed91050d-1214-4995-a6d3-c7caf9c1f0c4",
+        "id": "1"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_003.jpg?alt=media&token=56ec5119-04bc-44aa-8ffa-24dff063acae",
+        "id": "2"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_004.jpg?alt=media&token=95895dac-2277-406c-933a-3fa9fa618d66",
+        "id": "3"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_005.jpg?alt=media&token=26938f48-87da-48d2-89d9-2d5a958fd484",
+        "id": "4"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_006.jpg?alt=media&token=b587d16b-0b8d-4d92-bc49-349d131944c5",
+        "id": "5"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_007.jpg?alt=media&token=665dabea-1fd1-4a5d-8458-52968624958f",
+        "id": "6"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_008.jpg?alt=media&token=9dda0ba5-823b-4e09-8770-216b2df62e5b",
+        "id": "7"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_009.jpg?alt=media&token=81d01664-5a69-4852-9b66-5128cc8c9f15",
+        "id": "8"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_010.jpg?alt=media&token=fc18a0be-d4ea-4ad6-8068-6cbd2fd7638d",
+        "id": "9"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_011.jpg?alt=media&token=ff71c100-9884-46e3-9988-b464fab63718",
+        "id": "10"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_012.jpg?alt=media&token=b584d69c-7f10-4253-a551-b9957f3f2527",
+        "id": "11"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Fcauce%2Fcauce_013.jpg?alt=media&token=0c539b40-9d9a-4422-bcc9-bbecbfaa5a18",
+        "id": "12"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "shortname": "TANGO",
+    "name": "Casa Tango",
+    "author": "Estudio Clio",
+    "year": "2021",
+    "description": "Es un trabajo de ante-proyecto, en la que el cliente presentó un esquema de armado. El trabajo de estudio Clio en primera instancia consistió en una reinterpretación tanto de la misma como del programa para lograr una síntesis formal y espacial. En segunda instancia se presento como propuesta la materialización de la vivienda incluyendo todos los detalles y mobiliario visibles más la visualización de dicha propuesta a través de los renders.",
+    "map": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d21926.113302187783!2d-58.07854022882101!3d-35.106167311082146!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses-419!2sar!4v1622266228638!5m2!1ses-419!2sar",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Fetiq_tango.png?alt=media&token=7b133354-3e4a-43cc-8ed9-2a21de3eb0c0",
+    "card": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_card.jpg?alt=media&token=2fba3593-89b0-473d-bc98-d80408587a09",
+    "images": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_001.jpg?alt=media&token=84913752-f8e9-4654-b2ef-448f681c586a",
+        "id": "0"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_002.jpg?alt=media&token=e927421a-6573-4e0d-b7cc-2d0c35c13479",
+        "id": "1"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_003.jpg?alt=media&token=f7d4ab17-1166-4e32-b90d-0fd7dbd3a96e",
+        "id": "2"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_004.jpg?alt=media&token=4ffd9201-f93a-4d5c-a223-168f6dec4e71",
+        "id": "3"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_005.jpg?alt=media&token=edcbffdf-7e32-48a7-8c5c-2a0b5c474a60",
+        "id": "4"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_006.jpg?alt=media&token=391666ac-ae44-4e1d-bf50-0b4544eb5c50",
+        "id": "5"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_007.jpg?alt=media&token=68097e27-cd98-4fe6-89e1-dbb3cfd4014d",
+        "id": "6"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_008.jpg?alt=media&token=70421c38-1440-42fb-8af7-17eca883fbad",
+        "id": "7"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_009.jpg?alt=media&token=6aeff0a8-d2b5-4841-ab70-8152d1d39cec",
+        "id": "8"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_010.jpg?alt=media&token=0f3f5a45-0935-4aca-98b6-50722defea1d",
+        "id": "9"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_011.jpg?alt=media&token=918d3dfc-f5be-410d-92d2-7d776bd7f542",
+        "id": "10"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_012.jpg?alt=media&token=b5fd588b-0d52-45d0-9ad0-00a868a2cf2b",
+        "id": "11"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/proyects%2Ftango%2Ftango_013.jpg?alt=media&token=879b3bb6-ece7-4c35-b024-2754e2b9ac86",
+        "id": "12"
+      }
+    ]
+  }
+]
