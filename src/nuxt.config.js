@@ -52,14 +52,14 @@ module.exports = {
       '@nuxtjs/firebase',
       {
         config: {
-          apiKey: 'AIzaSyBEehMR_C7HavV1_JFqYp7_5JdVdJvIYD0',
-          authDomain: 'estudio-clio.firebaseapp.com',
-          databaseURL: 'https://estudio-clio.firebaseio.com',
-          projectId: 'estudio-clio',
-          storageBucket: 'estudio-clio.appspot.com',
-          messagingSenderId: '1062284388630',
-          appId: '1:1062284388630:web:2cf4a4d6965ff6f45ac837',
-          measurementId: 'G-NC92HV93XR'
+          apiKey: 'XXXXXXXXXXXX_XXXXXXX_XXXXXX_XXXXXXXXXXX',
+          authDomain: 'xxx.firebaseapp.com',
+          databaseURL: 'https://xxx.firebaseio.com',
+          projectId: 'xxx',
+          storageBucket: 'xxx.appspot.com',
+          messagingSenderId: 'xxxxxxxxxxxxx',
+          appId: 'X:XXXXXXXXXXXXX:web:XXXXXXXXXXXXXXXXXXX',
+          measurementId: 'X-XXXXXXXXXX'
         },
         services: {
           functions: true,
