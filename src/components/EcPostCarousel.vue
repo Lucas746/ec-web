@@ -18,10 +18,9 @@ export default {
 
   computed: {
     items () {
-      return this.$store.state.posts
-    },
-    isMobile () {
-      return this.$store.isMobile
+      const postsOr = this.$store.state.posts
+      const posts = [...postsOr].reverse()
+      return posts
     }
   },
   methods: {

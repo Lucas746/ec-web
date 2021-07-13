@@ -1,0 +1,51 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/lucas/dev/ec-web/src/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_4c42d64e"
+  },
+  {
+    "name": "atelier",
+    "path": "/atelier",
+    "component": "/home/lucas/dev/ec-web/src/pages/atelier.vue",
+    "chunkName": "pages/atelier",
+    "_name": "_a0851570"
+  },
+  {
+    "name": "proyects",
+    "path": "/proyects",
+    "component": "/home/lucas/dev/ec-web/src/pages/proyects.vue",
+    "chunkName": "pages/proyects",
+    "_name": "_bca69526"
+  },
+  {
+    "name": "start",
+    "path": "/start",
+    "component": "/home/lucas/dev/ec-web/src/pages/start.vue",
+    "chunkName": "pages/start",
+    "_name": "_aa6479a4"
+  },
+  {
+    "name": "posts-id",
+    "path": "/posts/:id?",
+    "component": "/home/lucas/dev/ec-web/src/pages/posts/_id.vue",
+    "chunkName": "pages/posts/_id",
+    "_name": "_b042ff6c"
+  },
+  {
+    "name": "proyect-info-id",
+    "path": "/proyect-info/:id?",
+    "component": "/home/lucas/dev/ec-web/src/pages/proyect-info/_id.vue",
+    "chunkName": "pages/proyect-info/_id",
+    "_name": "_f1a53d00"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/lucas/dev/ec-web/src/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0cd320c4"
+  }
+]

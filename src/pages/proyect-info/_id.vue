@@ -19,7 +19,7 @@
         </div>
       </section>
       <section>
-        <div class="section__img--proyect" :style="{ backgroundImage: 'url(' + proyect.images[0].url + ')' }" />
+        <div class="section__img--proyect" :style="{ backgroundImage: 'url(' + proyect.images[0].url + ')' }" @click="switchGallery(true)" />
       </section>
       <section class="section ec--proy-desc">
         <div class="columns">
@@ -280,6 +280,9 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+.section__img--proyect:hover {
+  cursor: pointer;
 }
 .ec--proy-desc {
   margin-top: 7vh;

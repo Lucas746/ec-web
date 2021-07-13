@@ -40,6 +40,5 @@ export default {
     }
     .ec-menu--card--proy:hover {
         cursor: pointer;
-        filter: brightness(1.2);
     }
 </style>

@@ -5,5 +5,12 @@ import partners from './partners.json'
 export const state = () => ({
   proyects,
   posts,
-  partners
+  partners,
+  selectAnteproyecto: false,
+  selectProyecto: false,
+  selectModelado: false,
+  selectRenderizado: false,
+  selectContenido: false,
+  selectCodigo: false,
+  selectHosting: false
 })

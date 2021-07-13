@@ -28,7 +28,9 @@ export default {
 
   computed: {
     proyects () {
-      return this.$store.state.proyects
+      const proyectsOr = this.$store.state.proyects
+      const proyects = [...proyectsOr].reverse()
+      return proyects
     }
   }
 }

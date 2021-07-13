@@ -1,0 +1,50 @@
+{
+  "EcEtapaAnteproyecto": {
+    "description": "Auto imported from components/EcEtapaAnteproyecto.vue"
+  },
+  "EcEtapaCodigoFuente": {
+    "description": "Auto imported from components/EcEtapaCodigoFuente.vue"
+  },
+  "EcEtapaContenidoWeb": {
+    "description": "Auto imported from components/EcEtapaContenidoWeb.vue"
+  },
+  "EcEtapaHosting": {
+    "description": "Auto imported from components/EcEtapaHosting.vue"
+  },
+  "EcEtapaModelado": {
+    "description": "Auto imported from components/EcEtapaModelado.vue"
+  },
+  "EcEtapaObra": {
+    "description": "Auto imported from components/EcEtapaObra.vue"
+  },
+  "EcEtapaProyecto": {
+    "description": "Auto imported from components/EcEtapaProyecto.vue"
+  },
+  "EcEtapaRenderizado": {
+    "description": "Auto imported from components/EcEtapaRenderizado.vue"
+  },
+  "EcFooter": {
+    "description": "Auto imported from components/EcFooter.vue"
+  },
+  "EcHeader": {
+    "description": "Auto imported from components/EcHeader.vue"
+  },
+  "EcPartner": {
+    "description": "Auto imported from components/EcPartner.vue"
+  },
+  "EcPost": {
+    "description": "Auto imported from components/EcPost.vue"
+  },
+  "EcPostCarousel": {
+    "description": "Auto imported from components/EcPostCarousel.vue"
+  },
+  "EcPostImg": {
+    "description": "Auto imported from components/EcPostImg.vue"
+  },
+  "EcProyect": {
+    "description": "Auto imported from components/EcProyect.vue"
+  },
+  "EcProyectImg": {
+    "description": "Auto imported from components/EcProyectImg.vue"
+  }
+}

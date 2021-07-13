@@ -28,9 +28,16 @@ export default {
 
   components: { EcPost },
 
+  data () {
+    return {
+    }
+  },
+
   computed: {
     posts () {
-      return this.$store.state.posts
+      const postsOr = this.$store.state.posts
+      const posts = [...postsOr].reverse()
+      return posts
     }
   }
 }

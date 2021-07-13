@@ -19,7 +19,7 @@
         </div>
       </section>
       <section v-if="!post.isecpostcard">
-        <div class="section__img--proyect" :style="{ backgroundImage: 'url(' + post.images[0].url + ')' }" />
+        <div class="section__img--post" :style="{ backgroundImage: 'url(' + post.images[0].url + ')' }" @click="switchGallery(true)" />
       </section>
       <section v-show="!post.isecpostcard" class="section ec--proy-desc">
         <div class="columns">
@@ -38,7 +38,7 @@
         </div>
       </section>
       <section v-show="!post.isecpostcard" class="section">
-        <div class="columns is-desktop">
+        <div v-show="!post.isecpostinfo" class="columns is-desktop">
           <div class="column" @click="switchGallery(true)">
             <li
               v-for="j in post.images"
@@ -51,7 +51,7 @@
           </div>
         </div>
       </section>
-      <section class="section container" style="width: 80vw; max-width: 600px">
+      <section v-show="!post.isecpostinfo" class="section container" style="width: 80vw; max-width: 600px">
         <b-carousel
           v-model="imagevalue"
           :autoplay="true"
@@ -85,6 +85,20 @@
             </div>
           </template>
         </b-carousel>
+      </section>
+      <section v-show="post.isecpostinfo" class="section">
+        <div class="columns is-desktop">
+          <div class="column">
+            <li
+              v-for="t in post.temas"
+              :key="t.temas"
+            >
+              <ul>
+                <ec-tema :post="t" />
+              </ul>
+            </li>
+          </div>
+        </div>
       </section>
     </div>
   </div>
@@ -146,7 +160,7 @@ export default {
 body {
   margin: 0;
 }
-.section__img--proyect {
+.section__img--post {
   position: relative;
   z-index: 1;
   display: flex;
@@ -157,6 +171,9 @@ body {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+.section__img--post:hover {
+  cursor: pointer;
 }
 .ec--proy-desc {
   margin-top: 7vh;
