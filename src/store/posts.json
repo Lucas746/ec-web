@@ -282,13 +282,33 @@
     "name": "Cómo optimizar tu flujo de trabajo en Sketchup",
     "author": "Estudio Clio",
     "year": "2021",
-    "description": "Llega un momento en que avanzado el proyecto tu pc empieza a alentarse o no responde? Estas pensando que necesitas cambiarla para poder modelar la volumetría para tus renders? Es muy probable que no necesites gastar en una maquina nueva sino optimizar tu flujo de trabajo. Además de ahorrarte mucho tiempo podrás obtener un gran nivel de detalle con menos recursos.",
+    "description": "¿Llega un momento en que avanzado el proyecto tu PC se empieza a enlentecer o no responde? ¿Estás pensando que necesitas cambiarla para poder modelar la volumetría para tus renders? Es muy probable que no necesites gastar en una máquina nueva sino optimizar tu flujo de trabajo. Además de ahorrarte mucho tiempo podrás obtener un gran nivel de detalle con menos recursos.",
     "logo": "",
-    "card": "",
+    "card": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fno-compres-pc_card.jpg?alt=media&token=8c56f357-c057-4cb1-ba8d-b19c3bdef73c",
     "images": [
       {
-        "url": "",
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fno-compres-pc_001.jpg?alt=media&token=2cf2a179-e732-4171-b51a-ae8b04fe5d87",
         "id": "0"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fno-compres-pc_002.jpg?alt=media&token=bf0535de-bf04-456b-9d0a-fd095e3bd781",
+        "id": "1"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fno-compres-pc_003.jpg?alt=media&token=8a441d9e-810b-48b9-97d7-c437bc4ac81d",
+        "id": "2"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fno-compres-pc_004.jpg?alt=media&token=81a1cd29-be7f-4b49-aedc-528e0ccab92c",
+        "id": "3"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fno-compres-pc_005.jpg?alt=media&token=aa09c517-3855-49e8-838d-9cfea3a129bb",
+        "id": "4"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fno-compres-pc_006.jpg?alt=media&token=cb600048-9b35-48a2-8ea5-533aac5747fd",
+        "id": "5"
       }
     ],
     "video": "",
@@ -300,63 +320,125 @@
           "items": [
               {
                 "title": "Uso de la geometria",
-                "imgurl": "",
-                "description": "En SketchUp, las herramientas de forma te ayudan a dibujar rectángulos, círculos y polígonos, extruirlos y generar geometria 3D compuesta por caras. Esta geometria es 'pegajosa', es decir que a medida que compartimos vertices o aristas los elementos geometricos no volveran a despegarse, por lo que para un uso correcto deberemos unificarla en grupos o componentes."
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fvideo%2Fncopc-item-01.mp4?alt=media&token=cf73bea0-78d1-42a2-83b9-bd80ad44edc4",
+                "description": "En SketchUp, las herramientas de forma te ayudan a dibujar geometría 3D compuesta por caras. Esta geometría es 'pegajosa', es decir que a medida que compartimos vértices o aristas los elementos geométricos no volverán a despegarse, por lo que para un uso correcto deberemos unificarla en grupos o componentes. Esta metodología es la base para que podamos ordenar nuestro proyecto, los elementos que queden dentro del grupo quedan aislados del resto del modelo, pudiendo trabajar con ellos de manera autónoma."
               },
               {
-                "title": "Esquema/Outliner",
-                "imgurl": "",
-                "description": ""
+                "title": "Esquema",
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fvideo%2Fncopc-item-02.mp4?alt=media&token=5770869b-73c5-4b3b-8dfd-57e0f1916351",
+                "description": "El 'Esquema'/'Outliner' es una de las herramientas principales para ordenar el proyecto, aquí se encuentran organizados todos los objetos que lo compongan salvo la geometría que no este agrupada en grupos o componentes. Para visualizarlo hacé clic en la ‘Ventana’ en la barra de menú y seleccioná ‘Esquema’ en el menú desplegable."
               },
               {
                 "title": "Nomenclar",
-                "imgurl": "",
-                "description": ""
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fvideo%2Fncopc-item-03.mp4?alt=media&token=62039f2d-0c80-4e5a-90a7-26dc07fdb197",
+                "description": "Es muy importante nombrar los objetos para trabajar de manera fluida. Esto nos ahorrará mucho tiempo a la hora de encontrar el objeto para ocultarlo, transformarlo, o aislarlo para trabajar sobre él. Te recomiendo agrupar los elementos dentro de otros grupos para generar un 'árbol' que facilite su reconocimiento, por ejemplo agrupar todas los componentes 'columna' en un grupo llamado 'columnas'."
               },
               {
                 "title": "Etiquetas",
-                "imgurl": "",
-                "description": ""
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fvideo%2Fncopc-item-04.mp4?alt=media&token=2d4ad5c4-f932-494b-99e5-a97e50743770",
+                "description": "El uso de etiquetas puede parecer redundante si ya estamos usando el 'Esquema', pero al contrario de esta suposición este es un complemento para organizarnos. Podemos cruzar este diagrama con el del esquema para obtener un flujo de trabajo mas fluido. Por ejemplo incluir en una etiqueta todos los elementos que corresponden a la vegetación, mientras trabajamos en el modelado del proyecto en si, podemos apagar esta etiqueta (y todas las que no estén en uso), optimizando en gran manera los recursos de nuestra PC."
               },
               {
                 "title": "Eficiencia",
-                "imgurl": "",
-                "description": ""
+                "description": "Este proceso de organización puede parecer tedioso o una perdida de tiempo si no estas acostumbrado/a, pero creéme que una vez te vayas acomodando a trabajar de esta manera vas a ahorrar mucho tiempo. Eso si, procurá no pecar de pasar más tiempo ordenando tu proyecto que modelando. Por ejemplo no hace falta nombrar absolutamente todos los elementos, si tenemos un 'grupo' llamado ventana compuesto por cuatro paños de vidrio, 5 marcos, 2 pestillos, no hace falta nombrar cada uno de ellos, sera suficiente con que podamos identificar este grupo 'ventana'."
               }
           ]
         },
         {
-          "title": "OPTIMIZA LOS RECURSOS A LO QUE ESTAS HACIENDO",
+          "title": "OPTIMIZA LOS RECURSOS",
           "icon": "cube-send",
           "items": [
               {
                 "title": "Desactivar sombras",
-                "imgurl": "",
-                "description": ""
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fvideo%2Fncopc-item-06.mp4?alt=media&token=4d5922f0-67ec-4eb9-b124-f86770c20ef4",
+                "description": "Al menos en el 90% del tiempo que estemos modelando no será necesario visualizar las sombras que proyecta el modelo. Por lo que es recomendable apagar la visualización de las mismas y encenderlas unicamente cuando necesitemos ver algo puntual. Para ello debemos desactivar la opción 'Sombras' en la barra de menú 'Ver'."
               },
               {
-                "title": "Estilos/perfiles",
-                "imgurl": "",
-                "description": ""
+                "title": "Perfiles",
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fvideo%2Fncopc-item-07.mp4?alt=media&token=dc1c43c1-33f5-4216-8820-9cd38af840c4",
+                "description": "Para lograr una mayor definición visual, Sketchup duplica y en algunos casos hasta triplica los vértices que componen la geometría. La realidad es que el cambio en cuanto a definición no es tan relevante para que valga la pena duplicar los recursos de memoria necesarios. Para simplificar este proceso debemos acceder al panel de 'Estilos' y desactivar los casilleros de 'Perfiles’ y 'Profundidad'."
               },
               {
                 "title": "Geometria compleja solo en primer plano",
-                "imgurl": "",
-                "description": ""
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fvideo%2Fncopc-item-08.mp4?alt=media&token=bdcc60ce-b1eb-445a-8094-273f3ac29482",
+                "description": "Cuanto mas complejo y mas caras tenga la geometría mas pesado será el archivo y requerirá más recursos. Al momento de añadir elementos que aportan detalle y sobre todo cuando lo hagamos a través de bloques descargados, debemos tener muy en cuenta la complejidad de los mismos y qué tan relevantes serán para nuestras imágenes finales. Por ejemplo; no tiene sentido descargar el bloque de un auto que pesa 20MB para que se vea en el fondo de la imagen y que no se aprecie ninguno de sus detalles."
+
               },
               {
                 "title": "Ocultar el resto del modelo",
-                "imgurl": "",
-                "description": ""
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fvideo%2Fncopc-item-09.mp4?alt=media&token=170b50c3-e89f-4450-8c00-86f513bf4376",
+                "description": "Una de las ventajas de trabajar en grupos o componentes es que cuando estamos trabajando dentro de cualquiera de estos, Sketchup nos da la posibilidad de poder ocultar todo el resto del modelo. Concentrando así, no solo nuestra atención, sino también todos los recursos de la PC a la geometría puntual que estamos trabajando. Esta herramienta es tan útil, que te recomiendo que generes un atajo en el teclado para usarla."
               }
               ,
               {
-                "title": "Estadisticas/purgar capas y materiales",
-                "imgurl": "",
-                "description": ""
+                "title": "Purgar capas y materiales",
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fno-compres-pc%2Fvideo%2Fncopc-item-10.mp4?alt=media&token=10f3c83d-4c2f-413e-beee-a7ed6a57eae9",
+                "description": "A medida que vamos trabajando en nuestro archivo, importando elementos externos, borrando elementos que ya no necesitamos, etc.. nuestro archivo va incorporando ‘metadatos’ que lo hacen más pesado y por ende más lento. De vez en cuando es recomendable realizar una limpieza de estos archivos innecesarios. Podemos acceder al menú para realizar este proceso, a través de la opción 'Purgar capas y materiales' ubicada en el menú de 'Información de modelo' en la solapa de 'Estadisticas'."
               }
           ]
 
+        }
+    ]
+  },
+  {
+    "id": "7",
+    "isecpostinfo": true,
+    "postfilter": "modelado",
+    "shortname": "SHORTCUTS SKETCHUP",
+    "name": "Conocé los atajos más útiles para Sketchup",
+    "author": "Estudio Clio",
+    "year": "2021",
+    "description": "Conocé los atajos de teclado que te llevarán a modelar en otro nivel para Sketchup",
+    "logo": "",
+    "card": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fpodio%2Fpodio_card.jpg?alt=media&token=1363cb5d-3d08-4525-a3de-607a7c9c8cd3",
+    "images": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fpodio%2Fpodio_001.jpg?alt=media&token=7b5ce579-802e-4e7d-a1b6-d6c1a3dc42b5",
+        "id": "0"
+      },
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fpodio%2Fpodio_002.jpg?alt=media&token=17fb4554-001d-4d38-a127-842c1a3f16e9",
+        "id": "1"
+      }
+    ],
+    "video": "",
+    "color": "#ADD8E6",
+    "temas": [
+        {
+          "title": "SHORTCUT'S",
+          "icon": "keyboard",
+          "items": [
+              {
+                "title": "Ocultar el resto de la geometría",
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fpodio%2Fvideo%2Fpodio-item-01.mp4?alt=media&token=5f501611-7413-47ac-8988-f954f9c25933",
+                "description": "Podés configurar el atajo que te quede más comodo en el menú Ventanas/Preferencias/Met. abreviados/'ver/edicion de componente/ocultar el resto del modelo', para poder visualizar rapidamente solo el modelo que seleccionamos. En mi caso uso 'ALT+Q', configurá el tuyo."
+              },
+              {
+                "title": "Multiplicar copia",
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fpodio%2Fvideo%2Fpodio-item-02.mp4?alt=media&token=42979ae1-2931-4b6c-baa9-2021c5c8f814",
+                "description": "Luego de realizar una copia, escribí 'Asterisco (*) + El número de copias que quieras hacer' para que se realice múltiples veces."
+              },
+              {
+                "title": "Ejes",
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fpodio%2Fvideo%2Fpodio-item-03.mp4?alt=media&token=f501bb69-59a1-450f-9c1b-15e660f47ca6",
+                "description": "Utilizá las flechas de desplazamiento del teclado para anclar tu geometria sobre un eje o plano deseado"
+              },
+              {
+                "title": "Rayos X",
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fpodio%2Fvideo%2Fpodio-item-04.mp4?alt=media&token=9b9869f3-fb95-4ec7-9238-75d9820c78c1",
+                "description": "Configurá un atajo para poder visualizar la geometria como 'rayos X' y poder rápidamente visualizar e interactuar con la geometria que no se ve a simple vista. Yo uso 'ALT+X', vos cuál preferis?"
+              },
+              {
+                "title": "Crear componente",
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fpodio%2Fvideo%2Fpodio-item-05.mp4?alt=media&token=b4fd051a-3d31-40cf-ab15-d71b724d8cc2",
+                "description": "La herramienta de crear componente ya viene configurada par usar el 'shortcut' con la letra 'G'."
+              },
+              {
+                "title": "Crear grupo",
+                "videourl": "https://firebasestorage.googleapis.com/v0/b/estudio-clio.appspot.com/o/posts%2Fpodio%2Fvideo%2Fpodio-item-06.mp4?alt=media&token=5e7a7697-7bfa-41c6-a554-f07c5329860f",
+                "description": "Configurá tu atajo para crear grupo desde el menú Ventanas/Preferencias/Met. abreviados"
+              }
+          ]
         }
     ]
   }
